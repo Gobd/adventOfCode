@@ -1,4 +1,4 @@
-moduleexports = `rthkunfaakmwmush
+module.exports = `rthkunfaakmwmush
 qxlnvjguikqcyfzt
 sleaoasjspnjctqt
 lactpmehuhmzwfjl
